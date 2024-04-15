@@ -6,6 +6,17 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background: blueviolet;
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding: 1px;
+    text-align: center;
+
+}
+
 #container 
 {
     width: 70%;
