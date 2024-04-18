@@ -8,15 +8,13 @@ body
 }
 #cabecera
 {
-    background: blueviolet;
+    background: rgb(23, 172, 28);
     color: white;
     font-weight: bold;
-    margin: 0px;
-    padding: 1px;
+    margin: 5px;
+    padding: 5px;
     text-align: center;
-
 }
-
 #container 
 {
     width: 70%;
@@ -28,4 +26,14 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#pie {
+    background: rgb(23, 172, 28);
+    color: white;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    /* width: 70%; */
+    background-color: blue;
 }
